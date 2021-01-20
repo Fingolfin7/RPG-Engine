@@ -5,6 +5,7 @@ Python program that creates text based RPGs read in from text files
 Text files contain sections that are denoted with `#'s`, including:
 
 ->`#Character` section where different characters and character stats can be defined, and
+
 ->`#Campaign` section where the dialogue and actions are defined
 
 ##Test
