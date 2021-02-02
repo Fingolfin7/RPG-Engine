@@ -25,7 +25,7 @@ class CharacterArray:
 
     def get(self, name_key=""):
         for i in range(len(self.arr)):
-            if self.arr[i].name == name_key:
+            if self.arr[i].name.__contains__(name_key):
                 return self.arr[i]
         return -1
 

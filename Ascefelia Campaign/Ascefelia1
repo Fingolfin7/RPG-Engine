@@ -1,0 +1,15 @@
+#Characters
+[_text256_81_]Fingolfin[reset]: 100 100 100
+[_text256_134_]Hollow[reset]: 80 100 100
+#Campaign
+So you dare explore the depths of darkness?
+Foolish mortal, it will be the end of you!
+
+As you explore Ascefilia, you come upon someone in the street.
+
+She turns around and hisses as you approach, her eyes glow a bright yellow.
+You turn to runaway, but you're not fast enough.
+
+You turn to fight, but can you defeat her?
+
+battle => [_text256_81_]Fingolfin[reset], [_text256_134_]Hollow[reset]
